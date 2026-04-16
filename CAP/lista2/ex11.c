@@ -17,7 +17,7 @@ int main()
     else if (salario > 800 && salario <= 1200)
     {
         i = 0.10;
-    }
+    } //
     else if (salario > 1200 && salario <= 2000)
     {
         i = 0.07;
